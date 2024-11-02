@@ -71,7 +71,7 @@ namespace QuanLyQuanCafe
                 switch (item.Status)
                 {
                     case "Trống":
-                        btn.BackColor = Color.Aqua;
+                        btn.BackColor = Color.Beige;
                         break;
                     default:
                         btn.BackColor = Color.Beige;
